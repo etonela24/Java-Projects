@@ -1,0 +1,17 @@
+Q:Is it a living thing
+Q:Is it an animal?
+Q:does it run really fast
+A:a cheetah
+A:a cat
+A:Jedi
+Q:does it play music
+Q:can you watch videos on it
+Q:can you code on it
+A:a computer
+A:phone
+Q:does it take you from one location to another?
+Q:does it move in water
+A:a boat
+A:a car
+A:headphones
+A:T-shirt
